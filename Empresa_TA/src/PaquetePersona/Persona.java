@@ -76,4 +76,6 @@ public class Persona {
         this.correoElectronico = correoElectronico;
     }
     
+    public void leerPersona(){}
+    
 }
